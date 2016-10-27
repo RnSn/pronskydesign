@@ -1,2 +1,2 @@
 # pronskydesign
-portfolio spa @ pronskydesign.com
+portfolio spa @ http://pronskydesign.com
